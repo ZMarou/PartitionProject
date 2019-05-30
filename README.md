@@ -2,7 +2,7 @@
 
 It's a java application that can be imported by another application.
 
-To run it: you run Main.java.
+To run it: you can run Main.java.
 
 To test it: you can test PartitionListServiceTest.java.
 
